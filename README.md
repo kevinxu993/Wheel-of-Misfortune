@@ -1,4 +1,4 @@
-# wheel-of-misfortune
+# Wheel of Misfortune
 
 📖A two-player word game which involves an "AI" with optimal strategy.
 
